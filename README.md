@@ -3,3 +3,4 @@
 Ola! bem vindo ao meu livro de receitas deliciosas de bolo!
 
 - Bolo de chocolate
+- Bolo de morango
